@@ -1,4 +1,7 @@
-### Hi there 👋
+# :ghost: Hello everyone!! who is watching my profiles :wave:
+### I'm a beginner at programming 🤔 <br>
+### Your can call me <strong>" Cony "</strong> (that's not a real name) <br>
+
 
 <!--
 **COny7897/COny7897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
