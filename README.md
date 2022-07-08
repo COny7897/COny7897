@@ -1,7 +1,7 @@
 # :ghost: Hello everyone!! who is watching my profiles :wave:
 ### I'm a beginner at programming 🤔 <br>
 ### Your can call me " Cony " (that's not a real name) <br>
-![snake animation](https://github.com/COny7897/COny7897/main/dist/github-contribution-grid-snake2.svg)
+<!--![snake animation](https://github.com/COny7897/COny7897/main/dist/github-contribution-grid-snake2.svg)-->
 
 <!--
 **COny7897/COny7897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
