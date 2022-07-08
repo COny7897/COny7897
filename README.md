@@ -1,6 +1,6 @@
 # :ghost: Hello everyone!! who is watching my profiles :wave:
 ### I'm a beginner at programming 🤔 <br>
-### Your can call me <strong>" Cony "</strong> (that's not a real name) <br>
+### Your can call me " Cony " (that's not a real name) <br>
 
 
 <!--
