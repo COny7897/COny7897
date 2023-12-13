@@ -1,5 +1,5 @@
-# Hello!!
-### I'm a beginner at programming 🤔 <br>
+# Hello!! (｀∇´)
+### I'm a beginner at programming  <br>
 ### You can call me " Cony " (that's not a real name) <br>
 <!--
 **COny7897/COny7897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
